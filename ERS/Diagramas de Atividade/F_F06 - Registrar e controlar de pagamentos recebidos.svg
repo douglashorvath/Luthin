@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="852"
+   version="1.1"
+   width="812"
+   id="svg402"
+   sodipodi:docname="F_F06 - Registrar e controlar de pagamentos recebidos.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview404"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.48356808"
+     inkscape:cx="763.07767"
+     inkscape:cy="654.50971"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg402" />
+  <defs
+     id="defs2" />
+  <rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect1243"
+     width="899.56311"
+     height="942.9903"
+     x="-33.087379"
+     y="-33.087379" />
+  <g
+     id="g400"
+     inkscape:export-filename="K:\ADS\SEMESTRE 3\Engenharia de Software II\Trabalho ERS\Diagramas de Atividade\F_F06 - Registrar e controlar de pagamentos recebidos.png"
+     inkscape:export-xdpi="241.8136"
+     inkscape:export-ydpi="241.8136">
+    <g
+       id="g6">
+      <rect
+         fill="#ffffff"
+         height="21"
+         stroke="none"
+         transform="matrix(1 0 0 1 -14 -6)"
+         width="240"
+         x="24"
+         y="16"
+         id="rect4" />
+    </g>
+    <g
+       id="g10">
+      <path
+         d=" M 10 10 L 250 10 L 250 31 L 10 31 L 10 10 Z Z"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="path8" />
+    </g>
+    <g
+       id="g14">
+      <path
+         d=" M 10 842 L 10 10 L 250 10 L 250 842"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="path12" />
+    </g>
+    <g
+       id="g22">
+      <g
+         id="g20">
+        <path
+           fill="none"
+           stroke="none"
+           id="path16" />
+        <text
+           dominant-baseline="text-before-edge"
+           fill="#000000"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           stroke="none"
+           text-anchor="middle"
+           text-decoration="undefined"
+           transform="matrix(1 0 0 1 -14 -6)"
+           x="144"
+           y="20"
+           id="text18">Cliente</text>
+      </g>
+    </g>
+    <g
+       id="g26">
+      <rect
+         fill="#ffffff"
+         height="21"
+         stroke="none"
+         transform="matrix(1 0 0 1 -14 -6)"
+         width="264"
+         x="264"
+         y="16"
+         id="rect24" />
+    </g>
+    <g
+       id="g30">
+      <path
+         d=" M 250 10 L 514 10 L 514 31 L 250 31 L 250 10 Z Z"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="path28" />
+    </g>
+    <g
+       id="g34">
+      <path
+         d=" M 250 842 L 250 10 L 514 10 L 514 842"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="path32" />
+    </g>
+    <g
+       id="g42">
+      <g
+         id="g40">
+        <path
+           fill="none"
+           stroke="none"
+           id="path36" />
+        <text
+           dominant-baseline="text-before-edge"
+           fill="#000000"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           stroke="none"
+           text-anchor="middle"
+           text-decoration="undefined"
+           transform="matrix(1 0 0 1 -14 -6)"
+           x="396"
+           y="20"
+           id="text38">Luthier</text>
+      </g>
+    </g>
+    <g
+       id="g46">
+      <rect
+         fill="#ffffff"
+         height="21"
+         stroke="none"
+         transform="matrix(1 0 0 1 -14 -6)"
+         width="288"
+         x="528"
+         y="16"
+         id="rect44" />
+    </g>
+    <g
+       id="g50">
+      <path
+         d=" M 514 10 L 802 10 L 802 31 L 514 31 L 514 10 Z Z"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="path48" />
+    </g>
+    <g
+       id="g54">
+      <path
+         d=" M 514 842 L 514 10 L 802 10 L 802 842"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="path52" />
+    </g>
+    <g
+       id="g62">
+      <g
+         id="g60">
+        <path
+           fill="none"
+           stroke="none"
+           id="path56" />
+        <text
+           dominant-baseline="text-before-edge"
+           fill="#000000"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           stroke="none"
+           text-anchor="middle"
+           text-decoration="undefined"
+           transform="matrix(1 0 0 1 -14 -6)"
+           x="672"
+           y="20"
+           id="text58">Sistema</text>
+      </g>
+    </g>
+    <g
+       id="g66">
+      <path
+         d=" M 129 59 C 129 53.477152000000004 133.477152 49 139 49 C 144.522848 49 149 53.477152000000004 149 59 C 149 64.522848 144.522848 69 139 69 C 133.477152 69 129 64.522848 129 59 Z"
+         fill="#C0C0C0"
+         fill-opacity="0.2"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path64" />
+    </g>
+    <g
+       id="g70">
+      <path
+         d=" M 122 52 C 122 46.477152000000004 126.47715199999999 42 132 42 C 137.522848 42 142 46.477152000000004 142 52 C 142 57.522847999999996 137.522848 62 132 62 C 126.47715199999999 62 122 57.522847999999996 122 52 Z"
+         fill="#000000"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path68" />
+    </g>
+    <g
+       id="g74">
+      <path
+         d=" M 59 105 L 211.5634765625 105 Q 221.5634765625 105 221.5634765625 115 L 221.5634765625 136 Q 221.5634765625 146 211.5634765625 146 L 59 146 Q 49 146 49 136 L 49 115 Q 49 105 59 105 Z"
+         fill="#C0C0C0"
+         fill-opacity="0.2"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path72" />
+    </g>
+    <g
+       id="g78">
+      <path
+         d=" M 52 98 L 204.5634765625 98 Q 214.5634765625 98 214.5634765625 108 L 214.5634765625 129 Q 214.5634765625 139 204.5634765625 139 L 52 139 Q 42 139 42 129 L 42 108 Q 42 98 52 98 Z"
+         fill="#ffffff"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path76" />
+    </g>
+    <g
+       id="g82">
+      <path
+         d=" M 52 98 L 204.5634765625 98 Q 214.5634765625 98 214.5634765625 108 L 214.5634765625 129 Q 214.5634765625 139 204.5634765625 139 L 52 139 Q 42 139 42 129 L 42 108 Q 42 98 52 98 Z"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path80" />
+    </g>
+    <g
+       id="g90">
+      <g
+         id="g88">
+        <path
+           fill="none"
+           stroke="none"
+           id="path84" />
+        <text
+           dominant-baseline="central"
+           fill="#000000"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           stroke="none"
+           text-anchor="middle"
+           text-decoration="undefined"
+           transform="matrix(1 0 0 1 -14 -6)"
+           x="142.78173828125"
+           y="117.5"
+           id="text86">Solicita o Valor a ser Pago</text>
+      </g>
+    </g>
+    <g
+       id="g94">
+      <path
+         d=" M 131 63 L 129 97"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path92" />
+    </g>
+    <g
+       id="g98">
+      <path
+         d=" M 125.3945191168192 86.60767073265008 L 129 97 L 133.79902651533092 87.10205352079782"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path96" />
+    </g>
+    <g
+       id="g102">
+      <path
+         d=" M 307 129 L 451.59716796875 129 Q 461.59716796875 129 461.59716796875 139 L 461.59716796875 160 Q 461.59716796875 170 451.59716796875 170 L 307 170 Q 297 170 297 160 L 297 139 Q 297 129 307 129 Z"
+         fill="#C0C0C0"
+         fill-opacity="0.2"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path100" />
+    </g>
+    <g
+       id="g106">
+      <path
+         d=" M 300 122 L 444.59716796875 122 Q 454.59716796875 122 454.59716796875 132 L 454.59716796875 153 Q 454.59716796875 163 444.59716796875 163 L 300 163 Q 290 163 290 153 L 290 132 Q 290 122 300 122 Z"
+         fill="#ffffff"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path104" />
+    </g>
+    <g
+       id="g110">
+      <path
+         d=" M 300 122 L 444.59716796875 122 Q 454.59716796875 122 454.59716796875 132 L 454.59716796875 153 Q 454.59716796875 163 444.59716796875 163 L 300 163 Q 290 163 290 153 L 290 132 Q 290 122 300 122 Z"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path108" />
+    </g>
+    <g
+       id="g118">
+      <g
+         id="g116">
+        <path
+           fill="none"
+           stroke="none"
+           id="path112" />
+        <text
+           dominant-baseline="central"
+           fill="#000000"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           stroke="none"
+           text-anchor="middle"
+           text-decoration="undefined"
+           transform="matrix(1 0 0 1 -14 -6)"
+           x="386.798583984375"
+           y="141.5"
+           id="text114">Autenticação no Sistema</text>
+      </g>
+    </g>
+    <g
+       id="g122">
+      <path
+         d=" M 216 127 L 289 134"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path120" />
+    </g>
+    <g
+       id="g126">
+      <path
+         d=" M 278.4819188284998 137.22024354199073 L 289 134 L 279.2855374329478 128.83964952417548"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path124" />
+    </g>
+    <g
+       id="g130">
+      <path
+         d=" M 307 249 L 469.66259765625 249 Q 479.66259765625 249 479.66259765625 259 L 479.66259765625 280 Q 479.66259765625 290 469.66259765625 290 L 307 290 Q 297 290 297 280 L 297 259 Q 297 249 307 249 Z"
+         fill="#C0C0C0"
+         fill-opacity="0.2"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path128" />
+    </g>
+    <g
+       id="g134">
+      <path
+         d=" M 300 242 L 462.66259765625 242 Q 472.66259765625 242 472.66259765625 252 L 472.66259765625 273 Q 472.66259765625 283 462.66259765625 283 L 300 283 Q 290 283 290 273 L 290 252 Q 290 242 300 242 Z"
+         fill="#ffffff"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path132" />
+    </g>
+    <g
+       id="g138">
+      <path
+         d=" M 300 242 L 462.66259765625 242 Q 472.66259765625 242 472.66259765625 252 L 472.66259765625 273 Q 472.66259765625 283 462.66259765625 283 L 300 283 Q 290 283 290 273 L 290 252 Q 290 242 300 242 Z"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path136" />
+    </g>
+    <g
+       id="g146">
+      <g
+         id="g144">
+        <path
+           fill="none"
+           stroke="none"
+           id="path140" />
+        <text
+           dominant-baseline="central"
+           fill="#000000"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           stroke="none"
+           text-anchor="middle"
+           text-decoration="undefined"
+           transform="matrix(1 0 0 1 -14 -6)"
+           x="395.831298828125"
+           y="261.5"
+           id="text142">Verifica OS do Cliente</text>
+      </g>
+    </g>
+    <g
+       id="g150">
+      <path
+         d=" M 539 201 L 781.12255859375 201 Q 791.12255859375 201 791.12255859375 211 L 791.12255859375 232 Q 791.12255859375 242 781.12255859375 242 L 539 242 Q 529 242 529 232 L 529 211 Q 529 201 539 201 Z"
+         fill="#C0C0C0"
+         fill-opacity="0.2"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path148" />
+    </g>
+    <g
+       id="g154">
+      <path
+         d=" M 532 194 L 774.12255859375 194 Q 784.12255859375 194 784.12255859375 204 L 784.12255859375 225 Q 784.12255859375 235 774.12255859375 235 L 532 235 Q 522 235 522 225 L 522 204 Q 522 194 532 194 Z"
+         fill="#ffffff"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path152" />
+    </g>
+    <g
+       id="g158">
+      <path
+         d=" M 532 194 L 774.12255859375 194 Q 784.12255859375 194 784.12255859375 204 L 784.12255859375 225 Q 784.12255859375 235 774.12255859375 235 L 532 235 Q 522 235 522 225 L 522 204 Q 522 194 532 194 Z"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path156" />
+    </g>
+    <g
+       id="g166">
+      <g
+         id="g164">
+        <path
+           fill="none"
+           stroke="none"
+           id="path160" />
+        <text
+           dominant-baseline="central"
+           fill="#000000"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           stroke="none"
+           text-anchor="middle"
+           text-decoration="undefined"
+           transform="matrix(1 0 0 1 -14 -6)"
+           x="667.561279296875"
+           y="213.5"
+           id="text162">Acesso ao Módulo de Ordens de Serviço</text>
+      </g>
+    </g>
+    <g
+       id="g170">
+      <path
+         d=" M 456 163 L 571 193"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path168" />
+    </g>
+    <g
+       id="g174">
+      <path
+         d=" M 560.1038458159621 194.50792042153265 L 571 193 L 562.2289947320572 186.3615162431681"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path172" />
+    </g>
+    <g
+       id="g178">
+      <path
+         d=" M 528 236 L 474 246"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path176" />
+    </g>
+    <g
+       id="g182">
+      <path
+         d=" M 483.22626733609263 240.0103429945488 L 474 246 L 484.75928328392706 248.28862911285498"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path180" />
+    </g>
+    <g
+       id="g186">
+      <path
+         d=" M 587 313 L 725.1162109375 313 Q 735.1162109375 313 735.1162109375 323 L 735.1162109375 344 Q 735.1162109375 354 725.1162109375 354 L 587 354 Q 577 354 577 344 L 577 323 Q 577 313 587 313 Z"
+         fill="#C0C0C0"
+         fill-opacity="0.2"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path184" />
+    </g>
+    <g
+       id="g190">
+      <path
+         d=" M 580 306 L 718.1162109375 306 Q 728.1162109375 306 728.1162109375 316 L 728.1162109375 337 Q 728.1162109375 347 718.1162109375 347 L 580 347 Q 570 347 570 337 L 570 316 Q 570 306 580 306 Z"
+         fill="#ffffff"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path188" />
+    </g>
+    <g
+       id="g194">
+      <path
+         d=" M 580 306 L 718.1162109375 306 Q 728.1162109375 306 728.1162109375 316 L 728.1162109375 337 Q 728.1162109375 347 718.1162109375 347 L 580 347 Q 570 347 570 337 L 570 316 Q 570 306 580 306 Z"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path192" />
+    </g>
+    <g
+       id="g202">
+      <g
+         id="g200">
+        <path
+           fill="none"
+           stroke="none"
+           id="path196" />
+        <text
+           dominant-baseline="central"
+           fill="#000000"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           stroke="none"
+           text-anchor="middle"
+           text-decoration="undefined"
+           transform="matrix(1 0 0 1 -14 -6)"
+           x="663.55810546875"
+           y="325.5"
+           id="text198">Exibe Débitos em Haver</text>
+      </g>
+    </g>
+    <g
+       id="g206">
+      <path
+         d=" M 473 284 L 569 307"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path204" />
+    </g>
+    <g
+       id="g210">
+      <path
+         d=" M 558.1362355950765 308.72586875350265 L 569 307 L 560.0977850210259 300.5385320191052"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path208" />
+    </g>
+    <g
+       id="g214">
+      <path
+         d=" M 547 409 L 775.1640625 409 Q 785.1640625 409 785.1640625 419 L 785.1640625 440 Q 785.1640625 450 775.1640625 450 L 547 450 Q 537 450 537 440 L 537 419 Q 537 409 547 409 Z"
+         fill="#C0C0C0"
+         fill-opacity="0.2"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path212" />
+    </g>
+    <g
+       id="g218">
+      <path
+         d=" M 540 402 L 768.1640625 402 Q 778.1640625 402 778.1640625 412 L 778.1640625 433 Q 778.1640625 443 768.1640625 443 L 540 443 Q 530 443 530 433 L 530 412 Q 530 402 540 402 Z"
+         fill="#ffffff"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path216" />
+    </g>
+    <g
+       id="g222">
+      <path
+         d=" M 540 402 L 768.1640625 402 Q 778.1640625 402 778.1640625 412 L 778.1640625 433 Q 778.1640625 443 768.1640625 443 L 540 443 Q 530 443 530 433 L 530 412 Q 530 402 540 402 Z"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path220" />
+    </g>
+    <g
+       id="g230">
+      <g
+         id="g228">
+        <path
+           fill="none"
+           stroke="none"
+           id="path224" />
+        <text
+           dominant-baseline="central"
+           fill="#000000"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           stroke="none"
+           text-anchor="middle"
+           text-decoration="undefined"
+           transform="matrix(1 0 0 1 -14 -6)"
+           x="668.58203125"
+           y="421.5"
+           id="text226">Exibe Tela de Registro de Pagamentos</text>
+      </g>
+    </g>
+    <g
+       id="g234">
+      <path
+         d=" M 650 348 L 653 401"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path232" />
+    </g>
+    <g
+       id="g238">
+      <path
+         d=" M 648.2228832875317 391.0914604549684 L 653 401 L 656.6284638820409 390.6156728741471"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path236" />
+    </g>
+    <g
+       id="g242">
+      <path
+         d=" M 299 473 L 471.04443359375 473 Q 481.04443359375 473 481.04443359375 483 L 481.04443359375 504 Q 481.04443359375 514 471.04443359375 514 L 299 514 Q 289 514 289 504 L 289 483 Q 289 473 299 473 Z"
+         fill="#C0C0C0"
+         fill-opacity="0.2"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path240" />
+    </g>
+    <g
+       id="g246">
+      <path
+         d=" M 292 466 L 464.04443359375 466 Q 474.04443359375 466 474.04443359375 476 L 474.04443359375 497 Q 474.04443359375 507 464.04443359375 507 L 292 507 Q 282 507 282 497 L 282 476 Q 282 466 292 466 Z"
+         fill="#ffffff"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path244" />
+    </g>
+    <g
+       id="g250">
+      <path
+         d=" M 292 466 L 464.04443359375 466 Q 474.04443359375 466 474.04443359375 476 L 474.04443359375 497 Q 474.04443359375 507 464.04443359375 507 L 292 507 Q 282 507 282 497 L 282 476 Q 282 466 292 466 Z"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path248" />
+    </g>
+    <g
+       id="g258">
+      <g
+         id="g256">
+        <path
+           fill="none"
+           stroke="none"
+           id="path252" />
+        <text
+           dominant-baseline="central"
+           fill="#000000"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           stroke="none"
+           text-anchor="middle"
+           text-decoration="undefined"
+           transform="matrix(1 0 0 1 -14 -6)"
+           x="392.522216796875"
+           y="485.5"
+           id="text254">Solicita Forma de Pagamento</text>
+      </g>
+    </g>
+    <g
+       id="g262">
+      <path
+         d=" M 559 444 L 469 465"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path260" />
+    </g>
+    <g
+       id="g266">
+      <path
+         d=" M 477.94030447597333 458.59133743462087 L 469 465 L 479.8533586791491 466.7901411625172"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path264" />
+    </g>
+    <g
+       id="g270">
+      <path
+         d=" M 43 529 L 219.3671875 529 Q 229.3671875 529 229.3671875 539 L 229.3671875 560 Q 229.3671875 570 219.3671875 570 L 43 570 Q 33 570 33 560 L 33 539 Q 33 529 43 529 Z"
+         fill="#C0C0C0"
+         fill-opacity="0.2"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path268" />
+    </g>
+    <g
+       id="g274">
+      <path
+         d=" M 36 522 L 212.3671875 522 Q 222.3671875 522 222.3671875 532 L 222.3671875 553 Q 222.3671875 563 212.3671875 563 L 36 563 Q 26 563 26 553 L 26 532 Q 26 522 36 522 Z"
+         fill="#ffffff"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path272" />
+    </g>
+    <g
+       id="g278">
+      <path
+         d=" M 36 522 L 212.3671875 522 Q 222.3671875 522 222.3671875 532 L 222.3671875 553 Q 222.3671875 563 212.3671875 563 L 36 563 Q 26 563 26 553 L 26 532 Q 26 522 36 522 Z"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path276" />
+    </g>
+    <g
+       id="g286">
+      <g
+         id="g284">
+        <path
+           fill="none"
+           stroke="none"
+           id="path280" />
+        <text
+           dominant-baseline="central"
+           fill="#000000"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           stroke="none"
+           text-anchor="middle"
+           text-decoration="undefined"
+           transform="matrix(1 0 0 1 -14 -6)"
+           x="138.68359375"
+           y="541.5"
+           id="text282">Informa formas de pagamento</text>
+      </g>
+    </g>
+    <g
+       id="g290">
+      <path
+         d=" M 281 507 L 219 521"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path288" />
+    </g>
+    <g
+       id="g294">
+      <path
+         d=" M 227.98589769754952 514.6554241616027 L 219 521 L 229.84028179606887 522.8676965979027"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path292" />
+    </g>
+    <g
+       id="g298">
+      <path
+         d=" M 331 601 L 453.9326171875 601 Q 463.9326171875 601 463.9326171875 611 L 463.9326171875 632 Q 463.9326171875 642 453.9326171875 642 L 331 642 Q 321 642 321 632 L 321 611 Q 321 601 331 601 Z"
+         fill="#C0C0C0"
+         fill-opacity="0.2"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path296" />
+    </g>
+    <g
+       id="g302">
+      <path
+         d=" M 324 594 L 446.9326171875 594 Q 456.9326171875 594 456.9326171875 604 L 456.9326171875 625 Q 456.9326171875 635 446.9326171875 635 L 324 635 Q 314 635 314 625 L 314 604 Q 314 594 324 594 Z"
+         fill="#ffffff"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path300" />
+    </g>
+    <g
+       id="g306">
+      <path
+         d=" M 324 594 L 446.9326171875 594 Q 456.9326171875 594 456.9326171875 604 L 456.9326171875 625 Q 456.9326171875 635 446.9326171875 635 L 324 635 Q 314 635 314 625 L 314 604 Q 314 594 324 594 Z"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path304" />
+    </g>
+    <g
+       id="g314">
+      <g
+         id="g312">
+        <path
+           fill="none"
+           stroke="none"
+           id="path308" />
+        <text
+           dominant-baseline="central"
+           fill="#000000"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           stroke="none"
+           text-anchor="middle"
+           text-decoration="undefined"
+           transform="matrix(1 0 0 1 -14 -6)"
+           x="399.96630859375"
+           y="613.5"
+           id="text310">Registra Informações</text>
+      </g>
+    </g>
+    <g
+       id="g318">
+      <path
+         d=" M 204 564 L 313 594"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path316" />
+    </g>
+    <g
+       id="g322">
+      <path
+         d=" M 302.08462256015343 595.3618132565401 L 313 594 L 304.31871520466456 587.2446099814831"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path320" />
+    </g>
+    <g
+       id="g326">
+      <path
+         d=" M 331 681 L 448.1689453125 681 Q 458.1689453125 681 458.1689453125 691 L 458.1689453125 712 Q 458.1689453125 722 448.1689453125 722 L 331 722 Q 321 722 321 712 L 321 691 Q 321 681 331 681 Z"
+         fill="#C0C0C0"
+         fill-opacity="0.2"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path324" />
+    </g>
+    <g
+       id="g330">
+      <path
+         d=" M 324 674 L 441.1689453125 674 Q 451.1689453125 674 451.1689453125 684 L 451.1689453125 705 Q 451.1689453125 715 441.1689453125 715 L 324 715 Q 314 715 314 705 L 314 684 Q 314 674 324 674 Z"
+         fill="#ffffff"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path328" />
+    </g>
+    <g
+       id="g334">
+      <path
+         d=" M 324 674 L 441.1689453125 674 Q 451.1689453125 674 451.1689453125 684 L 451.1689453125 705 Q 451.1689453125 715 441.1689453125 715 L 324 715 Q 314 715 314 705 L 314 684 Q 314 674 324 674 Z"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path332" />
+    </g>
+    <g
+       id="g342">
+      <g
+         id="g340">
+        <path
+           fill="none"
+           stroke="none"
+           id="path336" />
+        <text
+           dominant-baseline="central"
+           fill="#000000"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           stroke="none"
+           text-anchor="middle"
+           text-decoration="undefined"
+           transform="matrix(1 0 0 1 -14 -6)"
+           x="397.08447265625"
+           y="693.5"
+           id="text338">Verifica Informações</text>
+      </g>
+    </g>
+    <g
+       id="g346">
+      <path
+         d=" M 384 636 L 383 673"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path344" />
+    </g>
+    <g
+       id="g350">
+      <path
+         d=" M 379.06658547114057 662.7273056044601 L 383 673 L 387.4825477815691 662.9547640452824"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path348" />
+    </g>
+    <g
+       id="g354">
+      <path
+         d=" M 539 729 L 783.99169921875 729 Q 793.99169921875 729 793.99169921875 739 L 793.99169921875 760 Q 793.99169921875 770 783.99169921875 770 L 539 770 Q 529 770 529 760 L 529 739 Q 529 729 539 729 Z"
+         fill="#C0C0C0"
+         fill-opacity="0.2"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path352" />
+    </g>
+    <g
+       id="g358">
+      <path
+         d=" M 532 722 L 776.99169921875 722 Q 786.99169921875 722 786.99169921875 732 L 786.99169921875 753 Q 786.99169921875 763 776.99169921875 763 L 532 763 Q 522 763 522 753 L 522 732 Q 522 722 532 722 Z"
+         fill="#ffffff"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path356" />
+    </g>
+    <g
+       id="g362">
+      <path
+         d=" M 532 722 L 776.99169921875 722 Q 786.99169921875 722 786.99169921875 732 L 786.99169921875 753 Q 786.99169921875 763 776.99169921875 763 L 532 763 Q 522 763 522 753 L 522 732 Q 522 722 532 722 Z"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path360" />
+    </g>
+    <g
+       id="g370">
+      <g
+         id="g368">
+        <path
+           fill="none"
+           stroke="none"
+           id="path364" />
+        <text
+           dominant-baseline="central"
+           fill="#000000"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           stroke="none"
+           text-anchor="middle"
+           text-decoration="undefined"
+           transform="matrix(1 0 0 1 -14 -6)"
+           x="668.995849609375"
+           y="741.5"
+           id="text366">Registra Pagamento no Bando de Dados</text>
+      </g>
+    </g>
+    <g
+       id="g374">
+      <path
+         d=" M 452 706 L 535 721"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path372" />
+    </g>
+    <g
+       id="g378">
+      <path
+         d=" M 524.2506987351301 723.3350636644568 L 535 721 L 525.7479568309536 715.050235534233"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path376" />
+    </g>
+    <g
+       id="g382">
+      <path
+         d=" M 649 822 C 649 814.8202976 654.8202976 809 662 809 C 669.1797024 809 675 814.8202976 675 822 C 675 829.1797024 669.1797024 835 662 835 C 654.8202976 835 649 829.1797024 649 822 Z"
+         fill="#C0C0C0"
+         fill-opacity="0.2"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path380" />
+    </g>
+    <g
+       id="g386">
+      <path
+         d=" M 642 815 C 642 807.8202976 647.8202976 802 655 802 C 662.1797024 802 668 807.8202976 668 815 C 668 822.1797024 662.1797024 828 655 828 C 647.8202976 828 642 822.1797024 642 815 Z"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path384" />
+    </g>
+    <g
+       id="g390">
+      <path
+         d=" M 647 815 C 647 810.5817216 650.5817216 807 655 807 C 659.4182784 807 663 810.5817216 663 815 C 663 819.4182784 659.4182784 823 655 823 C 650.5817216 823 647 819.4182784 647 815 Z"
+         fill="#000000"
+         paint-order="stroke fill markers"
+         stroke="none"
+         id="path388" />
+    </g>
+    <g
+       id="g394">
+      <path
+         d=" M 654 764 L 655 801"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path392" />
+    </g>
+    <g
+       id="g398">
+      <path
+         d=" M 650.5174522184309 790.9547640452824 L 655 801 L 658.9334145288594 790.7273056044601"
+         fill="none"
+         paint-order="fill stroke markers"
+         stroke="#000000"
+         stroke-dasharray=""
+         stroke-miterlimit="10"
+         id="path396" />
+    </g>
+  </g>
+</svg>
