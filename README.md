@@ -30,8 +30,7 @@ instrumentos musicais engloba:
 	- Registro de novas peças, quantidade disponível e fornecedores.
 	- Alertas para reabastecimento quando os níveis mínimos forem atingidos.
 1. Faturamento e controle financeiro:
-	- Geração automatizada de Ordens de Serviço (OS) com valores com base nos
-	- serviços de reparo prestados.
+	- Geração automatizada de Ordens de Serviço (OS) com valores com base no serviços de reparo prestados.
 	- Personalização de OS com informações da empresa e detalhes dos serviços.
 	- Registro e acompanhamento dos pagamentos recebidos e OS concluídas.
 1. Comunicação com os clientes:
