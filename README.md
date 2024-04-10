@@ -1,6 +1,6 @@
 # Luthin
 
-## Sistema para gerenciamento de Luthieria em desenvolvimento (JAVA/MAVEN)
+## Sistema Open-Source para gerenciamento de Luthieria em desenvolvimento (JAVA/MAVEN)
 
 ### 1.1 OBJETIVO
 
