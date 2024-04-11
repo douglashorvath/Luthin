@@ -35,6 +35,9 @@ public class HomeScreen extends javax.swing.JFrame {
         submenuSair = new javax.swing.JMenuItem();
         submenuEntrar = new javax.swing.JMenuItem();
         submenuAdministrador = new javax.swing.JMenuItem();
+        menuCliente = new javax.swing.JMenu();
+        submenuNovoCliente = new javax.swing.JMenuItem();
+        submenuBuscarCliente = new javax.swing.JMenuItem();
         menuServiços = new javax.swing.JMenu();
         submenuNovoOrcamento = new javax.swing.JMenuItem();
         submenuOrcamentosAbertos = new javax.swing.JMenuItem();
@@ -140,8 +143,32 @@ public class HomeScreen extends javax.swing.JFrame {
 
         menuBar.add(menuAcesso);
 
+        menuCliente.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/report.png"))); // NOI18N
+        menuCliente.setText("Orçamentos");
+        menuCliente.setFont(new java.awt.Font("Segoe UI", 1, 20)); // NOI18N
+
+        submenuNovoCliente.setFont(new java.awt.Font("Segoe UI", 0, 16)); // NOI18N
+        submenuNovoCliente.setText("Novo Cliente");
+        submenuNovoCliente.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                submenuNovoClienteActionPerformed(evt);
+            }
+        });
+        menuCliente.add(submenuNovoCliente);
+
+        submenuBuscarCliente.setFont(new java.awt.Font("Segoe UI", 0, 16)); // NOI18N
+        submenuBuscarCliente.setText("Buscar Clientes");
+        submenuBuscarCliente.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                submenuBuscarClienteActionPerformed(evt);
+            }
+        });
+        menuCliente.add(submenuBuscarCliente);
+
+        menuBar.add(menuCliente);
+
         menuServiços.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/report.png"))); // NOI18N
-        menuServiços.setText("Orçamentos");
+        menuServiços.setText("Serviços");
         menuServiços.setFont(new java.awt.Font("Segoe UI", 1, 20)); // NOI18N
 
         submenuNovoOrcamento.setFont(new java.awt.Font("Segoe UI", 0, 16)); // NOI18N
@@ -487,6 +514,14 @@ public class HomeScreen extends javax.swing.JFrame {
         // TODO add your handling code here:
     }//GEN-LAST:event_submenuOrdensServicoAbertasActionPerformed
 
+    private void submenuNovoClienteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_submenuNovoClienteActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_submenuNovoClienteActionPerformed
+
+    private void submenuBuscarClienteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_submenuBuscarClienteActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_submenuBuscarClienteActionPerformed
+
 
 
     public JDesktopPane getDtp() {
@@ -503,6 +538,7 @@ public class HomeScreen extends javax.swing.JFrame {
     private javax.swing.JMenu menuAdministração;
     private javax.swing.JMenu menuAjuda;
     private javax.swing.JMenuBar menuBar;
+    private javax.swing.JMenu menuCliente;
     private javax.swing.JMenu menuConfiguracoes;
     private javax.swing.JMenu menuConsultas;
     private javax.swing.JMenu menuDEV;
@@ -510,6 +546,7 @@ public class HomeScreen extends javax.swing.JFrame {
     private javax.swing.JMenuItem submenuAdministrador;
     private javax.swing.JMenuItem submenuAgendaGeral;
     private javax.swing.JMenu submenuAvaliacao;
+    private javax.swing.JMenuItem submenuBuscarCliente;
     private javax.swing.JMenuItem submenuBuscarProduto;
     private javax.swing.JMenuItem submenuConfiguracoesGerais;
     private javax.swing.JMenuItem submenuConfiguracoesGerais1;
@@ -525,6 +562,7 @@ public class HomeScreen extends javax.swing.JFrame {
     private javax.swing.JMenuItem submenuNovaDespesa;
     private javax.swing.JMenuItem submenuNovaOrdemServico;
     private javax.swing.JMenuItem submenuNovaReceita;
+    private javax.swing.JMenuItem submenuNovoCliente;
     private javax.swing.JMenuItem submenuNovoOrcamento;
     private javax.swing.JMenuItem submenuNovoProduto;
     private javax.swing.JMenuItem submenuOrcamentosAbertos;
